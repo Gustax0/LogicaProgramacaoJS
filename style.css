@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Top {
+    background-color: #333;
+    overflow: hidden;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.contas {
+    width: 200px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 16px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.usuario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #333;
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 16px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.container {
+    text-align: center;
+}
